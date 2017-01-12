@@ -5,7 +5,7 @@ tagline: 이경용
 description: Kyungyong Lee research and development description
 ---
 
-Kyungyong Lee is an assitant professor in the [Department of Computer Science](http://eecs.kookmin.ac.kr/site/computer/introduction.htm) at [Kookmin University](http://www.kookmin.ac.kr/home.php). His current research topic covers big data analytics platforms, large-sclae distributed computing resource manangement, cloud computing, and peer-to-peer systems. 
+Kyungyong Lee is an assitant professor in the [Department of Computer Science](http://eecs.kookmin.ac.kr/site/computer/introduction.htm) at [Kookmin University](http://www.kookmin.ac.kr/home.php). His current research topic covers big data platforms, large-sclae distributed computing resource manangement, cloud computing, and peer-to-peer systems. 
 
 #### Education
 He received the Ph. D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). At UF, he conducted research about [efficient distributed computing resource managment](http://search.proquest.com/docview/1671724902) with his advisor [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof) in the [ACIS](https://www.acis.ufl.edu/) lab. Before joining UF, he received B.S. degree from [Sungkyunkwan University](http://www.skku.edu/).
@@ -27,7 +27,24 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 ### Research <a name="research"></a>
 
-Work in progress
+* DeepSpotCloud - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
+* Efficient and fault-tolerant big data analytics platform pipeline
+  * Task scheduling considering device heterogeneity (many core devices and GPU) and data locality
+  * Unified views of diverse processing frameworks
+  * Version-control of experiments with diverse parameters
+
+#### Selected Publications <a name="publication"></a>
+
+* Kyungyong Lee, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
+Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
+
+* Kyungyong Lee and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012 (acceptance rate - 17.7% on the main track), 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
+
+* Kyungyong Lee, David I. Wolinsky, and Renato Figueiredo,
+'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012 - acceptance rate: 16.1%), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib)
+
+* David I. Wolinsky, Panoat Chuchaisri, Kyungyong Lee, and Renato Figueiredo, 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance', International Journal of Cluster Computing, 01/2012 [link](http://www.springerlink.com/content/j1677u2qx2n88r62/) [bib](publications/ga.bib)
+
 
 ---
 
