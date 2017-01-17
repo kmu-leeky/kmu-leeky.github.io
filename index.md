@@ -11,40 +11,51 @@ Kyungyong Lee is an assitant professor in the [Department of Computer Science](h
 He received the Ph. D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). At UF, he conducted research about [efficient distributed computing resource managment](http://search.proquest.com/docview/1671724902) with his advisor [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof) in the [ACIS](https://www.acis.ufl.edu/) lab. Before joining UF, he received B.S. degree from [Sungkyunkwan University](http://www.skku.edu/).
 
 
-#### Experiences
+#### Industry Experiences
 Kyungyong has few industry experiecnes as a software development engineer and researcher.
 
-* Amazon Inc. Seattle. WA. USA. (2014 ~ 2016)
+* Amazon Inc. Seattle. WA. USA. (2014 ~ 2016) Software Development Engineer
   * Building a deep learning-based product recommendation platform for [Amazon e-commerce site](https://www.amazon.com/)
   * Building a scalable and fault-tolerant web server framework.
-* Hewlett Packard (HP) Labs. Palo Alto. CA. USA (2012 ~ 2014)
+* Hewlett Packard (HP) Labs. Palo Alto. CA. USA (2012 ~ 2014) Research Associate Intern
   * [distributedR](https://github.com/vertica/distributedR): A package that enables large-scale machine learning using R.
   * Interference and priority-aware multiple parallel application scheduling
-* Samsung Electronics. Suwon. Korea (2004 ~ 2008)
+* Samsung Electronics. Suwon. Korea (2004 ~ 2008) Software Development Engineer
   * Developing UPNA/DLNA applications
 
 ---
 
 ### Research <a name="research"></a>
 
-* DeepSpotCloud - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
+* Using cloud computing service to build cost-efficient and scalable big-data analytics platform
+  * DeepSpotCloud - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
+
 * Efficient and fault-tolerant big data analytics platform pipeline
   * Task scheduling considering device heterogeneity (many core devices and GPU) and data locality
   * Unified views of diverse processing frameworks
   * Version-control of experiments with diverse parameters
 
-#### Selected Publications <a name="publication"></a>
+#### Publications <a name="publication"></a>
 
-* Kyungyong Lee, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
+* **Kyungyong Lee**, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
 Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
 
-* Kyungyong Lee and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012 (acceptance rate - 17.7% on the main track), 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
+* David I. Wolinsky, Panoat Chuchaisri, **Kyungyong Lee**, and Renato Figueiredo, 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance', International  Journal of Cluster Computing, 06/2013 [link](http://www.springerlink.com/content/j1677u2qx2n88r62/) [bib](/publications/ga.bib)
 
-* Kyungyong Lee, David I. Wolinsky, and Renato Figueiredo,
+* Pierre St. Juste, Huengsik Eom, **Kyungyong Lee**, and Renato Figueiredo, 'Enabling decentralized microblogging through P2PVPNs', IEEE Consumer Communications and Networking Conference (CCNC), 2013, [pdf](/publications/ccnc_p2p.pdf) [bib](/publications/ccnc_p2p.bib)
+
+* **Kyungyong Lee** and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012 (acceptance rate - 17.7% on the main track), 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
+
+* **Kyungyong Lee**, David I. Wolinsky, and Renato Figueiredo,
 'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012 - acceptance rate: 16.1%), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib)
 
-* David I. Wolinsky, Panoat Chuchaisri, Kyungyong Lee, and Renato Figueiredo, 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance', International Journal of Cluster Computing, 01/2012 [link](http://www.springerlink.com/content/j1677u2qx2n88r62/) [bib](publications/ga.bib)
+* H. Zhao, Z. Yu, S. Tiwari, X. Mao, **K. Lee**, D. Wolinsky, X. Li and R. Figueiredo, 'CloudBay: Enabling an Online Resource Market Place for Open Clouds', In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012), 11/2012 [pdf](/publications/cloudbay.pdf) [bib](/publications/cloudbay.bib)
 
+* **Kyungyong Lee**, Tae Woong Choi, Arijit Ganguly, David I. Wolinsky, Oscar Boykin, and Renato Figueiredo, 'Parallel Processing Framework on a P2P System Using Map and Reduce Primitives', In the 8th International Workshop on Hot Topics in Peer-to-Peer Systems in Conjunction with IPDPS 2011, 5/2011 [pdf](/publications/mapreduce_p2p.pdf) [bib](/publications/mapreduce_p2p.bib)
+
+* David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'On the Design of Autonomic, Decentralized VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/david1.pdf) [bib](/publications/david1.bib)
+
+* Pierre St. Juste, David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'SocialDNS: A Decentralized Naming Service for Collaborative P2P VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/pierre1.pdf) [bib](/publications/pierre1.bib)
 
 ---
 
