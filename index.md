@@ -15,8 +15,8 @@ He received the Ph. D. degree in the [Department of Electrical and Computer Engi
 Kyungyong has few industry experiecnes as a software development engineer and researcher.
 
 * Amazon Inc. Seattle. WA. USA. (2014 ~ 2016) Software Development Engineer
-  * Building a deep learning-based product recommendation platform for [Amazon e-commerce site](https://www.amazon.com/)
-  * Building a scalable and fault-tolerant web server framework.
+  * In a team of building a next generation deep learning-based product recommendation platform for [Amazon e-commerce site](https://www.amazon.com/)
+  * In a team of building a scalable and fault-tolerant web server framework.
 * Hewlett Packard (HP) Labs. Palo Alto. CA. USA (2012 ~ 2014) Research Associate Intern
   * [distributedR](https://github.com/vertica/distributedR): A package that enables large-scale machine learning using R.
   * Interference and priority-aware multiple parallel application scheduling
