@@ -14,7 +14,7 @@ He received the Ph. D. degree in the [Department of Electrical and Computer Engi
 #### Industry Experiences
 Kyungyong has few industry experiecnes as a software development engineer and researcher.
 
-* Amazon Inc. Seattle. WA. USA. (2014 ~ 2016) Software Development Engineer
+* Amazon (Web Services). Seattle. WA. USA. (2014 ~ 2016) Software Development Engineer
   * In a team of building a next generation deep learning-based product recommendation platform for [Amazon e-commerce site](https://www.amazon.com/)
   * In a team of building a scalable and fault-tolerant web server framework.
 * Hewlett Packard (HP) Labs. Palo Alto. CA. USA (2012 ~ 2014) Research Associate Intern
