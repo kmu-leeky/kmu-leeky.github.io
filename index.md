@@ -31,14 +31,14 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Build an autonomic cloud computing service that abstracts complex infrastrucutre configurations
   * Providing an optimal kernel layer to utlize in a wide range of big-data processing applications
 * Using cloud computing service to build cost-efficient and scalable big-data analytics platform
-  * DeepSpotCloud - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
+  * [DeepSpotCloud](http://bigdata.cs.kookmin.ac.kr/research/deep-spot-cloud/) - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
 * Efficient and fault-tolerant big data analytics platform pipeline
   * Task scheduling considering device heterogeneity (many core devices and GPU) and data locality
   * Unified views of diverse processing frameworks
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-
+* **Kyungyong Lee**, Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017 (acceptance rate - 18% on the research track), 06/2017 [pdf](/publications/deep-spot-cloud.pdf)
 * **Kyungyong Lee**, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
 Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
 
