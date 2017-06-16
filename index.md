@@ -28,8 +28,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 ### Research <a name="research"></a>
 
 * ABC<sup>2</sup>: **A**utonomic **B**igData **C**loud **C**omputing
-  * Build an autonomic cloud computing service that abstracts complex infrastrucutre configurations
-  * Providing an optimal kernel layer to utlize in a wide range of big-data processing applications
+  * Build an autonomic cloud computing service that abstracts complex infrastructure configurations
+  * Providing an optimal kernel layer to utilize in a wide range of big-data processing applications
 * Using cloud computing service to build cost-efficient and scalable big-data analytics platform
   * [DeepSpotCloud](http://bigdata.cs.kookmin.ac.kr/research/deep-spot-cloud/) - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
 * Efficient and fault-tolerant big data analytics platform pipeline
