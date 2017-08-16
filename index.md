@@ -8,7 +8,7 @@ description: Kyungyong Lee research and development description 이경용 국민
 Kyungyong Lee is an assitant professor in the [College of Computer Science](http://cs.kookmin.ac.kr) at [Kookmin University](http://www.kookmin.ac.kr/home.php). His current research topic covers big data platforms, large-sclae distributed computing resource manangement, cloud computing, and peer-to-peer systems. 
 
 #### Education
-He received the Ph. D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). At UF, he conducted research about [efficient distributed computing resource managment](http://search.proquest.com/docview/1671724902) with his advisor [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof) in the [ACIS](https://www.acis.ufl.edu/) lab. Before joining UF, he received B.S. degree from [Sungkyunkwan University](http://www.skku.edu/).
+He received the Ph. D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). At UF, he conducted research about [efficient distributed computing resource management](http://search.proquest.com/docview/1671724902) with his advisor [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof) in the [ACIS](https://www.acis.ufl.edu/) lab. Before joining UF, he received B.S. degree from [Sungkyunkwan University](http://www.skku.edu/).
 
 
 #### Industry Experiences
