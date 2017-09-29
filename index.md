@@ -38,7 +38,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* **Kyungyong Lee**, Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017 (acceptance rate - 18% on the research track), 06/2017 [pdf](/publications/deep-spot-cloud.pdf)
+* **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017 (acceptance rate - 18% on the research track), 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib)
+* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources', The International Conference on Emerging Databases, 08/2017 [pdf](/publications/spot-price-prediction.pdf)
 * **Kyungyong Lee**, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
 Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
 
