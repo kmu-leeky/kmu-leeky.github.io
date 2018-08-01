@@ -38,7 +38,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017 (acceptance rate - 18% on the research track), 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib)
+* Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE Internation Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf)
+* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'LSTM Model to Forecast Time Series for EC2 Cloud Price', The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018, 08/2018 [pdf](/publications/sara-datacom.pdf) 
+* **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017, 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib)
 * Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources', The International Conference on Emerging Databases, 08/2017 [pdf](/publications/spot-price-prediction.pdf)
 * **Kyungyong Lee**, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
 Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
@@ -47,10 +49,10 @@ Future Generation Computer Systems - The International Journal of Grid Computing
 
 * Pierre St. Juste, Huengsik Eom, **Kyungyong Lee**, and Renato Figueiredo, 'Enabling decentralized microblogging through P2PVPNs', IEEE Consumer Communications and Networking Conference (CCNC), 2013, [pdf](/publications/ccnc_p2p.pdf) [bib](/publications/ccnc_p2p.bib)
 
-* **Kyungyong Lee** and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012 (acceptance rate - 17.7% on the main track), 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
+* **Kyungyong Lee** and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012, 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
 
 * **Kyungyong Lee**, David I. Wolinsky, and Renato Figueiredo,
-'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012 - acceptance rate: 16.1%), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib)
+'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib)
 
 * H. Zhao, Z. Yu, S. Tiwari, X. Mao, **K. Lee**, D. Wolinsky, X. Li and R. Figueiredo, 'CloudBay: Enabling an Online Resource Market Place for Open Clouds', In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012), 11/2012 [pdf](/publications/cloudbay.pdf) [bib](/publications/cloudbay.bib)
 
