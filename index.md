@@ -38,7 +38,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* Jeongchul Kim, and **Kyungyong Lee**, 'FunctionBench : A Suite of Workloads for Serverless Cloud Function Service', IEEE International Conference on Cloud Computing 2019 (WIP paper), 07/2019 [pdf](/publications/function_workload.pdf)
 
+* Jeongchul Kim, Jungae Park, and **Kyungyong Lee**, 'Network Resource Isolation in Serverless Cloud Function Service', AMGCC 2019 in conjuction with IEEE International Conference on Autonomic Computing 2019, 06/2019 [pdf](/publications/serverless_function_analyze.pdf)
 
 
 * Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE International Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf) [bib](/publications/mm-prediction.bib)
