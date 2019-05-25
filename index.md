@@ -38,9 +38,12 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE International Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf)
 
-* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'LSTM Model to Forecast Time Series for EC2 Cloud Price', The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018, 08/2018 [pdf](/publications/sara-datacom.pdf) 
+
+
+* Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE International Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf) [bib](/publications/mm-prediction.bib)
+
+* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'LSTM Model to Forecast Time Series for EC2 Cloud Price', The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018, 08/2018 [pdf](/publications/sara-datacom.pdf) [bib](/publications/lstm-price-predict.bib)
 
 * **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017, 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib)
 
