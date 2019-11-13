@@ -38,42 +38,42 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [preprint](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
+* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
-* Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 07/2019 [pdf](/publications/functionbench-socc.pdf)
+* Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 11/2019 [pdf](/publications/functionbench-socc.pdf)
 
-* Jeongchul Kim, and **Kyungyong Lee**, 'FunctionBench : A Suite of Workloads for Serverless Cloud Function Service', IEEE International Conference on Cloud Computing 2019 (WIP paper), 07/2019 [pdf](/publications/function_workload.pdf) [bib](/publications/functionbench-cloud.bib)
+* Jeongchul Kim, and **Kyungyong Lee**, 'FunctionBench : A Suite of Workloads for Serverless Cloud Function Service', IEEE International Conference on Cloud Computing 2019 (WIP paper), 07/2019 [pdf](/publications/function_workload.pdf) [bib](/publications/functionbench-cloud.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8814583)
 
-* Jeongchul Kim, Jungae Park, and **Kyungyong Lee**, 'Network Resource Isolation in Serverless Cloud Function Service', IEEE 4th International Workshops on Foundations and Applications of Self\* Systems (FAS\*W)2019, 06/2019 [pdf](/publications/serverless_function_analyze.pdf) [bib](/publications/faas-network-eval.bib)
+* Jeongchul Kim, Jungae Park, and **Kyungyong Lee**, 'Network Resource Isolation in Serverless Cloud Function Service', IEEE 4th International Workshops on Foundations and Applications of Self\* Systems (FAS\*W)2019, 06/2019 [pdf](/publications/serverless_function_analyze.pdf) [bib](/publications/faas-network-eval.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8791958)
 
 
-* Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE International Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf) [bib](/publications/mm-prediction.bib)
+* Myungjun Son, and **Kyungyong Lee**, 'Distributed Matrix Multiplication Performance Estimator for Machine Learning Jobs in Cloud Computing', IEEE International Conference on Cloud Computing 2018, 07/2018 [pdf](/publications/cloud_2018.pdf) [bib](/publications/mm-prediction.bib) [ieee](https://ieeexplore.ieee.org/document/8457857)
 
-* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'LSTM Model to Forecast Time Series for EC2 Cloud Price', The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018, 08/2018 [pdf](/publications/sara-datacom.pdf) [bib](/publications/lstm-price-predict.bib)
+* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'LSTM Model to Forecast Time Series for EC2 Cloud Price', The Fourth IEEE International Conference on Big Data Intelligence and Computing 2018, 08/2018 [pdf](/publications/sara-datacom.pdf) [bib](/publications/lstm-price-predict.bib) [ieee](https://ieeexplore.ieee.org/document/8512022)
 
-* **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017, 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib)
+* **Kyungyong Lee**, and Myungjun Son, 'DeepSpotCloud: Leveraging Cross-Region GPU Spot Instances for Deep Learning', IEEE International Conference on Cloud Computing 2017, 06/2017 [pdf](/publications/deep-spot-cloud.pdf) [bib](/publications/deep-spot-cloud.bib) [ieee](https://ieeexplore.ieee.org/document/8030577)
 
-* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources', The International Conference on Emerging Databases, 08/2017 [pdf](/publications/spot-price-prediction.pdf) [bib](/publications/spot-price-prediction.bib)
+* Sarah Alkharif, **Kyungyong Lee**, and Hyeokman Kim, 'Time-Series Analysis for Price Prediction of Opportunistic Cloud Computing Resources', The International Conference on Emerging Databases, 08/2017 [pdf](/publications/spot-price-prediction.pdf) [bib](/publications/spot-price-prediction.bib) [springer](https://link.springer.com/chapter/10.1007/978-981-10-6520-0_23)
 
 * **Kyungyong Lee**, Tae Woong Choi, Patrick Oscar Boykin, and Renato Figueiredo, 'MatchTree: Flexible, Scalable, and Fault-tolerant Wide-area Resource Discovery with Distributed Matchmaking and Aggregation',
-Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [link](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
+Future Generation Computer Systems - The International Journal of Grid Computing: Theory, Methods and Applications (FGCS) - Volume 29, Issue 6, August 2013. [elsevier](http://authors.elsevier.com/sd/article/S0167739X12001653)  [bib](/publications/matchtree.bib)
 
-* David I. Wolinsky, Panoat Chuchaisri, **Kyungyong Lee**, and Renato Figueiredo, 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance', International  Journal of Cluster Computing, 06/2013 [link](http://www.springerlink.com/content/j1677u2qx2n88r62/) [bib](/publications/ga.bib)
+* David I. Wolinsky, Panoat Chuchaisri, **Kyungyong Lee**, and Renato Figueiredo, 'Experiences with Self-Organizing Decentralized Grids Using the Grid Appliance', International  Journal of Cluster Computing, 06/2013 [springer](http://www.springerlink.com/content/j1677u2qx2n88r62/) [bib](/publications/ga.bib) 
 
-* Pierre St. Juste, Huengsik Eom, **Kyungyong Lee**, and Renato Figueiredo, 'Enabling decentralized microblogging through P2PVPNs', IEEE Consumer Communications and Networking Conference (CCNC), 2013, [pdf](/publications/ccnc_p2p.pdf) [bib](/publications/ccnc_p2p.bib)
+* Pierre St. Juste, Huengsik Eom, **Kyungyong Lee**, and Renato Figueiredo, 'Enabling decentralized microblogging through P2PVPNs', IEEE Consumer Communications and Networking Conference (CCNC), 2013, [pdf](/publications/ccnc_p2p.pdf) [bib](/publications/ccnc_p2p.bib) [ieee](https://ieeexplore.ieee.org/document/6488465)
 
-* **Kyungyong Lee** and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012, 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib)
+* **Kyungyong Lee** and Renato Figueiredo, 'MapReduce on Opportunistic Resources Leveraging Resource Availability', IEEE CloudCom 2012, 12/2012 [pdf](/publications/mr_opprt.pdf) [bib](/publications/mr_opprt.bib) [ieee](https://ieeexplore.ieee.org/document/6427554)
 
 * **Kyungyong Lee**, David I. Wolinsky, and Renato Figueiredo,
-'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib)
+'PonD : Dynamic Creation of HTC Pool on Demand Using a Decentralized Resource Discovery System', In the 21st International ACM Symposium on High-Performance Parallel and Distributed Computing (HPDC 2012), 06/2012 [pdf](/publications/pond.pdf) [bib](/publications/pond.bib) [acm](https://dl.acm.org/citation.cfm?id=2287105)
 
-* H. Zhao, Z. Yu, S. Tiwari, X. Mao, **K. Lee**, D. Wolinsky, X. Li and R. Figueiredo, 'CloudBay: Enabling an Online Resource Market Place for Open Clouds', In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012), 11/2012 [pdf](/publications/cloudbay.pdf) [bib](/publications/cloudbay.bib)
+* H. Zhao, Z. Yu, S. Tiwari, X. Mao, **K. Lee**, D. Wolinsky, X. Li and R. Figueiredo, 'CloudBay: Enabling an Online Resource Market Place for Open Clouds', In the 5th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2012), 11/2012 [pdf](/publications/cloudbay.pdf) [bib](/publications/cloudbay.bib) [acm](https://dl.acm.org/citation.cfm?id=2415689.2415714)
 
-* **Kyungyong Lee**, Tae Woong Choi, Arijit Ganguly, David I. Wolinsky, Oscar Boykin, and Renato Figueiredo, 'Parallel Processing Framework on a P2P System Using Map and Reduce Primitives', In the 8th International Workshop on Hot Topics in Peer-to-Peer Systems in Conjunction with IPDPS 2011, 5/2011 [pdf](/publications/mapreduce_p2p.pdf) [bib](/publications/mapreduce_p2p.bib)
+* **Kyungyong Lee**, Tae Woong Choi, Arijit Ganguly, David I. Wolinsky, Oscar Boykin, and Renato Figueiredo, 'Parallel Processing Framework on a P2P System Using Map and Reduce Primitives', In the 8th International Workshop on Hot Topics in Peer-to-Peer Systems in Conjunction with IPDPS 2011, 5/2011 [pdf](/publications/mapreduce_p2p.pdf) [bib](/publications/mapreduce_p2p.bib) [ieee](https://ieeexplore.ieee.org/document/6008959)
 
-* David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'On the Design of Autonomic, Decentralized VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/david1.pdf) [bib](/publications/david1.bib)
+* David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'On the Design of Autonomic, Decentralized VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/david1.pdf) [bib](/publications/david1.bib) [ieee](https://ieeexplore.ieee.org/document/5767040)
 
-* Pierre St. Juste, David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'SocialDNS: A Decentralized Naming Service for Collaborative P2P VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/pierre1.pdf) [bib](/publications/pierre1.bib)
+* Pierre St. Juste, David I Wolinsky, **Kyungyong Lee**, Oscar Boykin, and Renato Figueiredo, 'SocialDNS: A Decentralized Naming Service for Collaborative P2P VPNs', In the 6th International Conference on Collaborative Computing (CollaborateCom 2010), 10/2010 [pdf](/publications/pierre1.pdf) [bib](/publications/pierre1.bib) [ieee](https://ieeexplore.ieee.org/document/5767038)
 
 ---
 
