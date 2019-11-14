@@ -1,4 +1,4 @@
-## Kyungyong Lee personal website - see [leeky.me](http://leeky.me)
+## Kyungyong Lee personal website - see [link](http://leeky.kmubigdata.cloud)
 ---
 
 Created from
