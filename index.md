@@ -40,9 +40,11 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 #### Publications <a name="publication"></a>
 * Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
-* Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 11/2019 [pdf](/publications/functionbench-socc.pdf)
+* Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 11/2019 [pdf](/publications/functionbench-socc.pdf) [acm](https://dl.acm.org/citation.cfm?id=3357223.3365439) [bib](/publications/functionbench-socc.bib)
 
 * Jeongchul Kim, and **Kyungyong Lee**, 'FunctionBench : A Suite of Workloads for Serverless Cloud Function Service', IEEE International Conference on Cloud Computing 2019 (WIP paper), 07/2019 [pdf](/publications/function_workload.pdf) [bib](/publications/functionbench-cloud.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8814583)
+
+* Sungjae Lee, Yeonji Lee, Junho Kim, **Kyungyong Lee**, 'RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset', Media Management Workshop held with IEEE International Conference on BigData 2019, 12, 2019 [pdf](/publications/bigdata-media-workshop-2019.pdf)
 
 * Jeongchul Kim, Jungae Park, and **Kyungyong Lee**, 'Network Resource Isolation in Serverless Cloud Function Service', IEEE 4th International Workshops on Foundations and Applications of Self\* Systems (FAS\*W)2019, 06/2019 [pdf](/publications/serverless_function_analyze.pdf) [bib](/publications/faas-network-eval.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8791958)
 
