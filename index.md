@@ -38,6 +38,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* Jeongchul Kim and **Kyungyong Lee**, 'I/O Resource Isolation of Public Cloud Serverless Function Runtimes for Data-Intensive Applications', International Journal of Cluster Computing, Springer, Accepted, 2020 [pdf](/                publications/serverless-io.pdf) [springer]() [bib](/publications/serverless-io.bib)
+
 * Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
 * Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 11/2019 [pdf](/publications/functionbench-socc.pdf) [acm](https://dl.acm.org/citation.cfm?id=3357223.3365439) [bib](/publications/functionbench-socc.bib)
