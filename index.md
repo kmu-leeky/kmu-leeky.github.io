@@ -46,7 +46,7 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 * Jeongchul Kim, and **Kyungyong Lee**, 'FunctionBench : A Suite of Workloads for Serverless Cloud Function Service', IEEE International Conference on Cloud Computing 2019 (WIP paper), 07/2019 [pdf](/publications/function_workload.pdf) [bib](/publications/functionbench-cloud.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8814583)
 
-* Sungjae Lee, Yeonji Lee, Junho Kim, **Kyungyong Lee**, 'RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset', Media Management Workshop held with IEEE International Conference on BigData 2019, 12, 2019 [pdf](/publications/bigdata-media-workshop-2019.pdf)
+* Sungjae Lee, Yeonji Lee, Junho Kim, **Kyungyong Lee**, 'RnR: Extraction of Visual Attributes from Large-Scale Fashion Dataset', Media Management Workshop held with IEEE International Conference on BigData 2019, 12, 2019 [pdf](/publications/bigdata-media-workshop-2019.pdf) [ieee](https://ieeexplore.ieee.org/abstract/document/9006595) [bib](/publications/rnr.bib)
 
 * Jeongchul Kim, Jungae Park, and **Kyungyong Lee**, 'Network Resource Isolation in Serverless Cloud Function Service', IEEE 4th International Workshops on Foundations and Applications of Self\* Systems (FAS\*W)2019, 06/2019 [pdf](/publications/serverless_function_analyze.pdf) [bib](/publications/faas-network-eval.bib) [ieee](https://ieeexplore.ieee.org/abstract/document/8791958)
 
