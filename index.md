@@ -40,9 +40,11 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 #### Publications <a name="publication"></a>
 * Jeongchul Kim and **Kyungyong Lee**, 'I/O Resource Isolation of Public Cloud Serverless Function Runtimes for Data-Intensive Applications', International Journal of Cluster Computing, Springer, Accepted, 2020 [pdf](/publications/serverless-io.pdf) [online](https://rdcu.be/b3DF9) [springer](https://link.springer.com/article/10.1007/s10586-020-03103-4) [bib](/publications/serverless-io.bib)
 
-* Jungae Park, Hyunjune Kim, and **Kyungyong Lee**, 'Evaluating Concurrent Executions of Multiple Function-as-a-Service Runtimes with MicroVM, IEEE International Conference on Cloud Computing 2020 [pdf](/publications/microvm-performance.pdf) [ieee]() [bib]()
+* Jaeghang Choid and **Kyungyong Lee**, 'Evaluation of Network File System as a Shared Data Storage in Serverless Computing', Sixth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2020 [pdf](/publications/faas-nfs.pdf) [acm]() [bib]()
 
-* Jueon Park and **Kyungyong Lee**, 'Performance Prediction of Sparse Matrix Multiplication on a Distributed BigData Processing Environment', AMGCC 2020 [pdf](/publications/spmm_prediction.pdf) [ieee](https://ieeexplore.ieee.org/document/9196334) [bib](/publications/spmm_prediction.bib)
+* Jueon Park and **Kyungyong Lee**, 'Performance Prediction of Sparse Matrix Multiplication on a Distributed BigData Processing Environment', 6th International Workshop on AMGCC held with IEEE ACSOS-C, 2020 [pdf](/publications/spmm_prediction.pdf) [ieee](https://ieeexplore.ieee.org/document/9196334) [bib](/publications/spmm_prediction.bib)
+
+* Jungae Park, Hyunjune Kim, and **Kyungyong Lee**, 'Evaluating Concurrent Executions of Multiple Function-as-a-Service Runtimes with MicroVM', IEEE International Conference on Cloud Computing 2020 [pdf](/publications/microvm-performance.pdf) [ieee]() [bib]()
 
 * Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
