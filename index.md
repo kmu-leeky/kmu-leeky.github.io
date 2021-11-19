@@ -38,6 +38,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021) - Poster session [pdf](/publications/edge-accelerator-detector.pdf) [acm]() [bib]()
+
 * Jueon Park and **Kyungyong Lee**, 'S-MPEC: Sparse Matrix Multiplication Performance Estimator on a Cloud Environment', International Journal of Cluster Computing, Springer, 2021 [pdf](/publications/smpec.pdf) [online](https://rdcu.be/ckv9I) [springer](https://link.springer.com/article/10.1007/s10586-021-03287-3) [bib](/publications/smpec.bib)
 
 * Jungae Park, Hyunjune Kim, and **Kyungyong Lee**, 'Evaluating Concurrent Executions of Multiple Function-as-a-Service Runtimes with MicroVM', IEEE International Conference on Cloud Computing 2020 [pdf](/publications/microvm-performance.pdf) [ieee](https://ieeexplore.ieee.org/abstract/document/9284320/) [bib](/publications/microvm-performance.bib)
