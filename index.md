@@ -38,7 +38,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [acm]() [bib]()
+* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
+
+* Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib)
 
 * Jueon Park and **Kyungyong Lee**, 'S-MPEC: Sparse Matrix Multiplication Performance Estimator on a Cloud Environment', International Journal of Cluster Computing, Springer, 2021 [pdf](/publications/smpec.pdf) [online](https://rdcu.be/ckv9I) [springer](https://link.springer.com/article/10.1007/s10586-021-03287-3) [bib](/publications/smpec.bib)
 
@@ -49,8 +51,6 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 * Jueon Park and **Kyungyong Lee**, 'Performance Prediction of Sparse Matrix Multiplication on a Distributed BigData Processing Environment', 6th International Workshop on AMGCC held with IEEE ACSOS-C, 2020 [pdf](/publications/spmm_prediction.pdf) [ieee](https://ieeexplore.ieee.org/document/9196334) [bib](/publications/spmm_prediction.bib)
 
 * Jeongchul Kim and **Kyungyong Lee**, 'I/O Resource Isolation of Public Cloud Serverless Function Runtimes for Data-Intensive Applications', International Journal of Cluster Computing, Springer, 2020 [pdf](/publications/serverless-io.pdf) [online](https://rdcu.be/b3DF9) [springer](https://link.springer.com/article/10.1007/s10586-020-03103-4) [bib](/publications/serverless-io.bib)
-
-* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, Accepted, 2019 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
 * Jeongchul Kim, and **Kyungyong Lee**, 'Practical Cloud Workloads for Serverless FaaS', ACM Symposium on Cloud Computing - SoCC 2019 (Poster), 11/2019 [pdf](/publications/functionbench-socc.pdf) [acm](https://dl.acm.org/citation.cfm?id=3357223.3365439) [bib](/publications/functionbench-socc.bib)
 
