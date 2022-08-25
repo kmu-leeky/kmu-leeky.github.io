@@ -27,17 +27,26 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 ### Research <a name="research"></a>
 
+* ACE-AI : **A**utonomic **C**loud **E**nvironment for **AI**
+  * Autonomically providing cost and performance efficient cloud environment for deep learning training and inference
+  * Enhancing the spare cloud instance usages to save cloud usage cost
+  * A Software StarLab project (cloud computing) selected in 2022. [project description in Korean](http://www.swstarlab.kr/page/page02_02.php?c=lab45)
+  
 * ABC<sup>2</sup>: **A**utonomic **B**igData **C**loud **C**omputing
   * Build an autonomic cloud computing service that abstracts complex infrastructure configurations
   * Providing an optimal kernel layer to utilize in a wide range of big-data processing applications
+
 * Using cloud computing service to build cost-efficient and scalable big-data analytics platform
   * [DeepSpotCloud](http://bigdata.cs.kookmin.ac.kr/research/deep-spot-cloud/) - Utilizing EC2 GPU spot instances to build cost-efficient deep learning framework
+
 * Efficient and fault-tolerant big data analytics platform pipeline
   * Task scheduling considering device heterogeneity (many core devices and GPU) and data locality
   * Unified views of diverse processing frameworks
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+
+* Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in Aug. 2022. [pdf](/publications/dos.pdf) [ieee](https://www.computer.org/csdl/journal/bd/5555/01/09858628/1FUYvtRM2gE) [bib](/publications/dos.bib) [github](https://github.com/ddps-lab/dos)
 * Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
 
 * Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib)
