@@ -45,11 +45,17 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib) [demo](http://mpec.ddps.cloud/)
 
-* Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in Aug. 2022. [pdf](/publications/dos.pdf) [ieee](https://www.computer.org/csdl/journal/bd/5555/01/09858628/1FUYvtRM2gE) [bib](/publications/dos.bib) [github](https://github.com/ddps-lab/dos)
-* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib)
+* Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in Aug. 2022. [pdf](/publications/dos.pdf) [ieee](https://www.computer.org/csdl/journal/bd/5555/01/09858628/1FUYvtRM2gE) [bib](/publications/dos.bib) [demo](http://dos.ddps.cloud/) [github](https://github.com/ddps-lab/dos)
 
-* Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib)
+* S. Lee, J. Hwang, and **Kyungyong Lee**, 'SpotLake: Diverse Spot Instance Dataset Archive Service', IEEE International Symposium on Workload Characterization (IISWC) 2022, [pdf](/publications/spotlake.pdf) [ieee]() [bib](/publications/spotlake.bib) [demo](https://spotlake.ddps.cloud) [github](https://github.com/ddps-lab/spotlake)
+
+* S. Lee, Y. Heo, S. Park, and **Kyungyong Lee**, 'PROFET : PROFiling-based CNN Training Latency ProphET for GPU Cloud Instances', IEEE International Conference on Big Data, 2022, [pdf](/publications/profet.pdf) [ieee]() [bib](/publications/profet.bib) [demo](http://profet.ddps.cloud/) [github](https://github.com/ddps-lab/profet)
+
+* J. Choi, S. Park, and **Kyungyong Lee**, 'All-You-Can-Inference : Serverless DNN Model Inference Suite', Eightth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2022, [pdf](/publications/ayci.pdf) [bib](/publications/ayci.bib) [acm]() [bib](/publications/ayci.bib) [github](https://github.com/ddps-lab/lambda-optimize-serving)
+
+* Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib) [demo](https://reactor.ddps.cloud/)
 
 * Jueon Park and **Kyungyong Lee**, 'S-MPEC: Sparse Matrix Multiplication Performance Estimator on a Cloud Environment', International Journal of Cluster Computing, Springer, 2021 [pdf](/publications/smpec.pdf) [online](https://rdcu.be/ckv9I) [springer](https://link.springer.com/article/10.1007/s10586-021-03287-3) [bib](/publications/smpec.bib)
 
