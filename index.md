@@ -49,11 +49,11 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 * Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in Aug. 2022. [pdf](/publications/dos.pdf) [ieee](https://www.computer.org/csdl/journal/bd/5555/01/09858628/1FUYvtRM2gE) [bib](/publications/dos.bib) [demo](http://dos.ddps.cloud/) [github](https://github.com/ddps-lab/dos)
 
-* S. Lee, J. Hwang, and **Kyungyong Lee**, 'SpotLake: Diverse Spot Instance Dataset Archive Service', IEEE International Symposium on Workload Characterization (IISWC) 2022, [pdf](/publications/spotlake.pdf) [ieee]() [bib](/publications/spotlake.bib) [demo](https://spotlake.ddps.cloud) [github](https://github.com/ddps-lab/spotlake)
+* S. Lee, J. Hwang, and **Kyungyong Lee**, 'SpotLake: Diverse Spot Instance Dataset Archive Service', IEEE International Symposium on Workload Characterization (IISWC) 2022, [pdf](/publications/spotlake.pdf) [ieee](https://www.computer.org/csdl/proceedings-article/iiswc/2022/879800a242/1J4CfYbzYdi) [bib](/publications/spotlake.bib) [demo](https://spotlake.ddps.cloud) [github](https://github.com/ddps-lab/spotlake)
 
 * S. Lee, Y. Heo, S. Park, and **Kyungyong Lee**, 'PROFET : PROFiling-based CNN Training Latency ProphET for GPU Cloud Instances', IEEE International Conference on Big Data, 2022, [pdf](/publications/profet.pdf) [ieee]() [bib](/publications/profet.bib) [demo](http://profet.ddps.cloud/) [github](https://github.com/ddps-lab/profet)
 
-* J. Choi, S. Park, and **Kyungyong Lee**, 'All-You-Can-Inference : Serverless DNN Model Inference Suite', Eightth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2022, [pdf](/publications/ayci.pdf) [bib](/publications/ayci.bib) [acm]() [bib](/publications/ayci.bib) [github](https://github.com/ddps-lab/lambda-optimize-serving)
+* J. Choi, S. Park, and **Kyungyong Lee**, 'All-You-Can-Inference : Serverless DNN Model Inference Suite', Eightth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2022, [pdf](/publications/ayci.pdf) [bib](/publications/ayci.bib) [acm](https://dl.acm.org/doi/10.1145/3565382.3565878) [bib](/publications/ayci.bib) [github](https://github.com/ddps-lab/lambda-optimize-serving)
 
 * Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib) [demo](https://reactor.ddps.cloud/)
 
