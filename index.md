@@ -47,9 +47,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 #### Publications <a name="publication"></a>
 * K. Kim. S. Park, J. Hwang, H. Lee, S. Kang, and **Kyungyong Lee**, 'Public Spot Instance Dataset Archive Service', ACM The Web Conference, WWW 2023 (Demo). [pdf](/publications/spot-datasets.pdf) [acm]() [bib](/publications/spot-datasets.bib)
 
-* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib) [demo](http://mpec.ddps.cloud/)
+* Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in April. 2023. [pdf](/publications/dos.pdf) [ieee](https://ieeexplore.ieee.org/document/9858628) [bib](/publications/dos.bib) [demo](http://dos.ddps.cloud/) [github](https://github.com/ddps-lab/dos)
 
-* Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in Aug. 2022. [pdf](/publications/dos.pdf) [ieee](https://ieeexplore.ieee.org/document/9858628) [bib](/publications/dos.bib) [demo](http://dos.ddps.cloud/) [github](https://github.com/ddps-lab/dos)
+* Jeongchul Kim, Myungjun Son, and **Kyungyong Lee**, 'MPEC: Distributed Matrix Multiplication Performance Modeling on a Scale-out Cloud Environment for Data Mining Jobs', IEEE Transactions on Cloud Computing, VOL 10, NO. 1, JANUARY-MARCH, 2022 [pdf](/publications/mpec-tcc.pdf) [ieee](https://ieeexplore.ieee.org/document/8887190) [bib](/publications/mpec-tcc.bib) [demo](http://mpec.ddps.cloud/)
 
 * S. Lee, J. Hwang, and **Kyungyong Lee**, 'SpotLake: Diverse Spot Instance Dataset Archive Service', IEEE International Symposium on Workload Characterization (IISWC) 2022, [pdf](/publications/spotlake.pdf) [ieee](https://ieeexplore.ieee.org/document/9975369) [bib](/publications/spotlake.bib) [demo](https://spotlake.ddps.cloud) [github](https://github.com/ddps-lab/spotlake)
 

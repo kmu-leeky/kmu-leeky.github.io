@@ -1,17 +1,10 @@
-@ARTICLE {dos-tbd,
-author = {U. Choi and K. Lee},
-journal = {IEEE Transactions on Big Data},
-title = {Dense or Sparse : Elastic SPMM Implementation for Optimal Big-Data Processing},
-year = {2022},
-volume = {},
-number = {01},
-issn = {2332-7790},
-pages = {1-17},
-abstract = {Many real-world graph datasets can be represented using a sparse matrix format, and they are widely used for various big-data applications. The multiplication of two sparse matrices (SPMM) is a major kernel for various machine learning algorithms when using a sparsely expressed dataset. Apache Spark, a general-purpose big-data processing engine, includes the SPMM operation in its linear algebra package. The default Spark SPMM implementation, however, always converts a right sparse matrix to a dense format before performing multiplication, which can result in significant performance overhead for diverse SPMM scenarios. To address a limitation of the current Spark implementation, we describe an SPMM implementation that keeps the right matrix in a Compressed Sparse Column (CSC) format and propose an SPMM task latency prediction model based on a Deep Neural Network (DNN) architecture. Using the SPMM latency prediction model, we implement an elastic SPMM implementation recommendation service, which we name DoS (&lt;bold&gt;D&lt;/bold&gt;ense &lt;bold&gt;o&lt;/bold&gt;r &lt;bold&gt;S&lt;/bold&gt;parse). The proposed DoS recommends an optimal SPMM implementation method of either transforming a right matrix to a dense format or keeping it as a sparse format during the multiplication. Through evaluation of the proposed system using a real-world graph reveals that the proposed service can improve the SPMM latency of default Spark implementation by 2.2 times while shortening the overall execution time.}
-keywords = {sparse matrices;indexes;sparks;predictive models;machine learning algorithms;task analysis;cluster computing},
-doi = {10.1109/TBDATA.2022.3199197},
-publisher = {IEEE Computer Society},
-address = {Los Alamitos, CA, USA},
-month = {aug}
-}
+@ARTICLE{dos-tbd,
+  author={Choi, Unho and Lee, Kyungyong},
+  journal={IEEE Transactions on Big Data}, 
+  title={Dense or Sparse : Elastic SPMM Implementation for Optimal Big-Data Processing}, 
+  year={2023},
+  volume={9},
+  number={2},
+  pages={637-652},
+  doi={10.1109/TBDATA.2022.3199197}}
 
