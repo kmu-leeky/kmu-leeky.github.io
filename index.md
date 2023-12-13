@@ -45,7 +45,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* K. Kim. S. Park, J. Hwang, H. Lee, S. Kang, and **Kyungyong Lee**, 'Public Spot Instance Dataset Archive Service', ACM The Web Conference, WWW 2023 (Demo). [pdf](/publications/spot-datasets.pdf) [acm]() [bib](/publications/spot-datasets.bib)
+* M. Song, Y. Hur, and **Kyungyong Lee**, 'When Serverless Computing Meets Different Degrees of Customization for DNN Inference', Nineth International Workshop on Serverless Computing (WoSC) held with ACM/IFIP Middleware 2023, [pdf](publications/serverless-customization-dnn.pdf) [acm](https://dl.acm.org/doi/abs/10.1145/3631295.3631400) [bib](/publications/serverless-customization-dnn.bib) 
+
+* K. Kim, S. Park, J. Hwang, H. Lee, S. Kang, and **Kyungyong Lee**, 'Public Spot Instance Dataset Archive Service', ACM The Web Conference, WWW 2023 (Demo). [pdf](/publications/spot-datasets.pdf) [acm]() [bib](/publications/spot-datasets.bib)
 
 * Unho Choi, and **Kyungyong Lee**, '**D**ense **o**r **S**parse : Elastic SPMM Implementation for Optimal Big-Data Processing', IEEE Transactions on Big Data, Accepted in April. 2023. [pdf](/publications/dos.pdf) [ieee](https://ieeexplore.ieee.org/document/9858628) [bib](/publications/dos.bib) [demo](http://dos.ddps.cloud/) [github](https://github.com/ddps-lab/dos)
 
@@ -55,7 +57,7 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 * S. Lee, Y. Heo, S. Park, and **Kyungyong Lee**, 'PROFET : PROFiling-based CNN Training Latency ProphET for GPU Cloud Instances', IEEE International Conference on Big Data, 2022, [pdf](/publications/profet.pdf) [ieee](https://ieeexplore.ieee.org/document/10020212) [bib](/publications/profet.bib) [demo](http://profet.ddps.cloud/) [github](https://github.com/ddps-lab/profet)
 
-* J. Choi, S. Park, and **Kyungyong Lee**, 'All-You-Can-Inference : Serverless DNN Model Inference Suite', Eightth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2022, [pdf](/publications/ayci.pdf) [bib](/publications/ayci.bib) [acm](https://dl.acm.org/doi/10.1145/3565382.3565878) [bib](/publications/ayci.bib) [github](https://github.com/ddps-lab/lambda-optimize-serving)
+* J. Choi, S. Park, and **Kyungyong Lee**, 'All-You-Can-Inference : Serverless DNN Model Inference Suite', Eighth International Workshop on Serverless Computing held with ACM/IFIP Middleware 2022, [pdf](/publications/ayci.pdf) [bib](/publications/ayci.bib) [acm](https://dl.acm.org/doi/10.1145/3565382.3565878) [bib](/publications/ayci.bib) [github](https://github.com/ddps-lab/lambda-optimize-serving)
 
 * Jungae Park, Unho Choi, Seungwoo Kum, Jaewon Moon, and **Kyungyong Lee**, 'Accelerator-Aware Kubernetes Scheduler for DNN Tasks on Edge Computing Environment', The Sixth ACM/IEEE Symposium on Edge Computing (SEC 2021 Poster session) [pdf](/publications/edge-accelerator-detector.pdf) [IEEE](https://ieeexplore.ieee.org/document/9709001) [bib](/publications/edge-accelerator-detector.bib) [demo](https://reactor.ddps.cloud/)
 
