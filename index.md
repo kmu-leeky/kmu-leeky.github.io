@@ -45,6 +45,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* K. Kim, and **Kyungyong Lee**, 'Making Cloud Spot Instance Interruption Events Visible', THE WEB CONFERENCE (WWW), 2024, [pdf](publications/spot-interrupt-visible.pdf) [acm]() [bib](publications/spot-interrupt-visible.bib)
+
 * M. Song, Y. Hur, and **Kyungyong Lee**, 'When Serverless Computing Meets Different Degrees of Customization for DNN Inference', Nineth International Workshop on Serverless Computing (WoSC) held with ACM/IFIP Middleware 2023, [pdf](publications/serverless-customization-dnn.pdf) [acm](https://dl.acm.org/doi/abs/10.1145/3631295.3631400) [bib](/publications/serverless-customization-dnn.bib) 
 
 * K. Kim, S. Park, J. Hwang, H. Lee, S. Kang, and **Kyungyong Lee**, 'Public Spot Instance Dataset Archive Service', ACM The Web Conference, WWW 2023 (Demo). [pdf](/publications/spot-datasets.pdf) [acm]() [bib](/publications/spot-datasets.bib)
