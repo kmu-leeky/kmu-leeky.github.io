@@ -45,7 +45,7 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* K. Kim, and **Kyungyong Lee**, 'Making Cloud Spot Instance Interruption Events Visible', THE WEB CONFERENCE (WWW), 2024, [pdf](publications/spot-interrupt-visible.pdf) [acm]() [bib](publications/spot-interrupt-visible.bib)
+* K. Kim, and **Kyungyong Lee**, 'Making Cloud Spot Instance Interruption Events Visible', ACM THE WEB CONFERENCE, WWW 2024, [pdf](publications/spot-interrupt-visible.pdf) [acm]() [bib](publications/spot-interrupt-visible.bib)
 
 * J. Lim, K. Kim, and **Kyungyong Lee**, 'Workload-Aware Live Migratable Cloud Instance Detector', The 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGrid 2024, [pdf](publications/workload-aware-migrate-detector.pdf) [ieee]() [bib](publications/workload-aware-migrate-detector.bib)
 
