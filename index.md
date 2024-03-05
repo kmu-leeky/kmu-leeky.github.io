@@ -47,6 +47,10 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 #### Publications <a name="publication"></a>
 * K. Kim, and **Kyungyong Lee**, 'Making Cloud Spot Instance Interruption Events Visible', THE WEB CONFERENCE (WWW), 2024, [pdf](publications/spot-interrupt-visible.pdf) [acm]() [bib](publications/spot-interrupt-visible.bib)
 
+J. Lim, K. Kim, and **Kyungyong Lee**, 'Workload-Aware Live Migratable Cloud Instance Detector', The 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGrid 2024, [pdf](publications/workload-aware-migrate-detector.pdf) [ieee]() [bib](publications/workload-aware-migrate-detector.bib)
+
+Y. Hur, and **Kyungyong Lee**, 'CNN Training Latency Prediction Using Hardware Metrics on Cloud GPUs', The 24th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, CCGrid 2024, [pdf](publications/cnn-hw-metric-prediction.pdf) [ieee]() [bib](publications/cnn-hw-metric-prediction.bib) 
+
 * M. Song, Y. Hur, and **Kyungyong Lee**, 'When Serverless Computing Meets Different Degrees of Customization for DNN Inference', Nineth International Workshop on Serverless Computing (WoSC) held with ACM/IFIP Middleware 2023, [pdf](publications/serverless-customization-dnn.pdf) [acm](https://dl.acm.org/doi/abs/10.1145/3631295.3631400) [bib](/publications/serverless-customization-dnn.bib) 
 
 * K. Kim, S. Park, J. Hwang, H. Lee, S. Kang, and **Kyungyong Lee**, 'Public Spot Instance Dataset Archive Service', ACM The Web Conference, WWW 2023 (Demo). [pdf](/publications/spot-datasets.pdf) [acm]() [bib](/publications/spot-datasets.bib)
