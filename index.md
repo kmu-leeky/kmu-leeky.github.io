@@ -124,7 +124,7 @@ Future Generation Computer Systems - The International Journal of Grid Computing
     </div>
     <div class="span3">
     <strong>Kyungyong Lee</strong> <br/>
-    <a href=""https://hyds.hanyang.ac.kr/>Department of Data Science</a><br/>
+    <a href="https://hyds.hanyang.ac.kr/">Department of Data Science</a><br/>
     <a href="https://www.hanyang.ac.kr/web/www/home?">Hanyang University</a><br/>
     510. FTC. <br/>
     222, Wangsimni-ro <br/>
