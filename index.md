@@ -2,10 +2,10 @@
 layout: page
 title: Kyungyong Lee
 tagline: 이경용
-description: Kyungyong Lee research and development description 이경용 국민대 컴퓨터공학부
+description: Kyungyong Lee research and development description
 ---
 
-Kyungyong Lee is an associate professor in the [College of Computer Science](http://cs.kookmin.ac.kr) at [Kookmin University](http://www.kookmin.ac.kr/home.php). He is leading [Distributed Data Processing Systems](http://ddps.cloud) Lab. in the school. His current research topic covers big data platforms, large-scale distributed computing resource manangement, cloud computing, and peer-to-peer systems. 
+Kyungyong Lee is an associate professor in the [Department of Data Science](https://hyds.hanyang.ac.kr/) at [Hanyang University](https://www.hanyang.ac.kr/web/www/home?). He is leading [Distributed Data Processing Systems](http://ddps.cloud) Lab. in the school. His current research topic covers cloud computing, AI/big data platforms, and large-scale distributed computing resource manangement. Before joining Hanyang University, he worked in the Department of Computer Science in Kookmin University.
 
 #### Education
 He received the Ph. D. degree in the [Department of Electrical and Computer Engineering](https://www.ece.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). At UF, he conducted research about [efficient distributed computing resource management](http://search.proquest.com/docview/1671724902) with his advisor [Dr. Renato Figueiredo](https://www.acis.ufl.edu/people/renatof) in the [ACIS](https://www.acis.ufl.edu/) lab. Before joining UF, he received B.S. degree from [Sungkyunkwan University](http://www.skku.edu/).
