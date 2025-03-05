@@ -124,15 +124,15 @@ Future Generation Computer Systems - The International Journal of Grid Computing
     </div>
     <div class="span3">
     <strong>Kyungyong Lee</strong> <br/>
-    <a href="cs.kookmin.ac.kr">College of Computer Science</a><br/>
-    <a href="kookmin.ac.kr">Kookmin University</a><br/>
-    614 Dorm. B. <br/>
-    Jeongneung-ro 77. <br/>
-    Seongbuk-gu. Seoul. 02707 <br/>
-    <a href="https://goo.gl/maps/vyrQxy815BR2" target="_blank">Map</a><br>
-    phone: 82-2-910-4420
+    <a href=""https://hyds.hanyang.ac.kr/>Department of Data Science</a><br/>
+    <a href="https://www.hanyang.ac.kr/web/www/home?">Hanyang University</a><br/>
+    510. FTC. <br/>
+    222, Wangsimni-ro <br/>
+    Seongdong-gu. Seoul. 04763 <br/>
+    <a href="https://maps.app.goo.gl/jQfano8VJf2FkabN9" target="_blank">Map</a><br>
+    phone: 82-2-2220-2656
     <div id="hide_email">
-e-mail: <b>I don't</b><code>leeky</code><b>So</b><code>@</code><b>please</b><code>kookmin</code><b>leave</b><code>.</code><b>me</b><code>ac</code><b>alone</b><code>.</code><b>!</b><code>kr</code><br/>
+e-mail: <b>I don't</b><code>kyungyong</code><b>So</b><code>@</code><b>please</b><code>hanyang</code><b>leave</b><code>.</code><b>me</b><code>ac</code><b>alone</b><code>.</code><b>!</b><code>kr</code><br/>
     </div>
     </div>
   </div>
