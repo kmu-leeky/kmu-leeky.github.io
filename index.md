@@ -48,6 +48,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+M. Song, H. Kim, K. Lee, J. Son, **K. Lee**, 'Orchestrating WASM-based MCP Tool Runtimes for AI Agents across Edge-Cloud Continuum', The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), 2026, [pdf]() [ieee]() [bib]()
+
 * S. Chun, K. Kim, K. Kim, M. Song, **K. Lee**, 'Multi-Node Spot Instances Availability Score Collection System', International Symposium on High Performance Distributed Computing (HPDC) - Poster, 2025, [pdf](publications/multi-node-sps.pdf) [acm](https://dl.acm.org/doi/10.1145/3731545.3735122) [bib](publications/multi-node-sps.bib)
 
 * S. Kang, M. Song, T. Kim, S. Lee, J. Han, H. Kim, **K. Lee**, 'HybridServe: Adaptive WebAssembly-Container Runtime Selection for Edge Serverless Computing', 11th Workshop on Serverless Computing (WoSC), 2025, [pdf](publications/hybridserve.pdf) [acm](https://dl.acm.org/doi/10.1145/3774899.3775011) [bib](publications/hybridserve.bib)
