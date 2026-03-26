@@ -48,6 +48,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
+* T. Kim, K. Ki, E. Gimenez, P. Lopez, **K. Lee**, 'KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances', 27th ACM International Middleware Conference, 2026, [pdf]() [ACM]() [bib]()
+
 * S. Lee, J. Lim, **K. Lee**, 'Pygration : Workload-Aware Live Migratable Cloud Instance Detector for Python Runtime', IEEE Transactions on Cloud Computing, 2026, [pdf](publications/pygration.pdf) [ieee](https://ieeexplore.ieee.org/document/11427031) [bib](publications/pygration.bib)
 
 * M. Song, H. Kim, K. Lee, J. Son, **K. Lee**, 'Orchestrating WASM-based MCP Tool Runtimes for AI Agents across Edge-Cloud Continuum', The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), 2026, [pdf](publications/mcp-wasm-continuum.pdf) [ieee]() [bib](publications/mcp-wasm-continuum.bib)
