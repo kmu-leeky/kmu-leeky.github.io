@@ -54,6 +54,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 * M. Song, H. Kim, K. Lee, J. Son, **K. Lee**, 'Orchestrating WASM-based MCP Tool Runtimes for AI Agents across Edge-Cloud Continuum', The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), 2026, [pdf](publications/mcp-wasm-continuum.pdf) [ieee]() [bib](publications/mcp-wasm-continuum.bib)
 
+* K. Kim, M. Song, T. Kim, **K. Lee**, 'Ding-Dong Ditch: Peeking Into Spot Instance Availability', The IEEE International Conference on Cloud Computing (IEEE Cloud), 2026, [pdf](publications/ddd.pdf) [ieee]() [bib](publications/ddd.bib)
+
 * T. Kim, W. Park, H. Yun, **K. Lee**, 'Why Do AI Agents Systematically Fail at Cloud Root Cause Analysis?', 7th International Workshop on Cloud Intelligence and AIOps, 2026, [pdf](publications/llm-rca-failure-analysis.pdf) [acm]() [bib](publications/llm-rca-failure-analysis.bib)
 
 * S. Chun, K. Kim, K. Kim, M. Song, **K. Lee**, 'Multi-Node Spot Instances Availability Score Collection System', International Symposium on High Performance Distributed Computing (HPDC) - Poster, 2025, [pdf](publications/multi-node-sps.pdf) [acm](https://dl.acm.org/doi/10.1145/3731545.3735122) [bib](publications/multi-node-sps.bib)
