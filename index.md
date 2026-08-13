@@ -52,6 +52,8 @@ Kyungyong has few industry experiecnes as a software development engineer and re
 
 * S. Lee, J. Lim, **K. Lee**, 'Pygration : Workload-Aware Live Migratable Cloud Instance Detector for Python Runtime', IEEE Transactions on Cloud Computing, 2026, [pdf](publications/pygration.pdf) [ieee](https://ieeexplore.ieee.org/document/11427031) [bib](publications/pygration.bib)
 
+* Y. Hur, S. Lee, S. Kum, **K. Lee**, 'Predicting CNN training latency on cloud GPUs without disclosing model architecture', International Journal of Cluster Computing, Springer, 2026, [pdf](publications/cnn-prediction-name-clustering.pdf) [bib](publications/cnn-prediction-name-clustering.bib) [springer](https://link.springer.com/article/10.1007/s10586-026-06447-5) [online](https://rdcu.be/fzy9o)
+
 * M. Song, H. Kim, K. Lee, J. Son, **K. Lee**, 'Orchestrating WASM-based MCP Tool Runtimes for AI Agents across Edge-Cloud Continuum', The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid), 2026, [pdf](publications/mcp-wasm-continuum.pdf) [ieee]() [bib](publications/mcp-wasm-continuum.bib)
 
 * K. Kim, M. Song, T. Kim, **K. Lee**, 'Ding-Dong Ditch: Peeking Into Spot Instance Availability', The IEEE International Conference on Cloud Computing (IEEE Cloud), 2026, [pdf](publications/ddd.pdf) [ieee]() [bib](publications/ddd.bib)

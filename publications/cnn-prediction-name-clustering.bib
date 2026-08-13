@@ -1,0 +1,18 @@
+@Article{cnn-prediction-name-clustering,
+author={Hur, Yoonseo
+and Lee, Sungjae
+and Kum, Seungwoo
+and Lee, Kyungyong},
+title={Predicting CNN training latency on cloud GPUs without disclosing model architecture},
+journal={Cluster Computing},
+year={2026},
+month={Aug},
+day={12},
+volume={29},
+number={10},
+pages={636},
+abstract={Training distributed deep neural networks (DNNs) demands substantial computational resources, leading to the increasing adoption of public cloud platforms as primary training environments. However, the rapid evolution and diversity of cloud-based hardware offerings pose significant challenges for algorithm developers in maintaining up-to-date and efficient training systems. As a result, there is a growing need for cloud service providers to offer optimized training environments that reduce the operational overhead for end users. To address this need, we present PROFET, a system that predicts the training latency of arbitrary Convolutional Neural Network (CNN) implementations across a wide range of GPU types and mini-batch sizes. In contrast to prior approaches, PROFET does not require access to CNN architecture details or source code, making it particularly well-suited for integration by public cloud providers. To improve prediction accuracy, we introduce a novel operation-name clustering heuristic that effectively resolves naming inconsistencies in computational graphs where semantically similar operations are labeled differently. Extensive experimental evaluations demonstrate that PROFET achieves superior prediction accuracy compared to existing state-of-the-art methods, with improvements ranging from 17{\%} to 62{\%}. Furthermore, we assess the practical utility of PROFET by comparing its recommended GPU selection against an Oracle strategy that assumes perfect knowledge of actual training latencies. PROFET attains comparable performance, with only marginal differences of 1.2{\%} in average latency and 0.4{\%} in training cost, highlighting its potential for real-world deployment in cloud-based DNN training systems.},
+issn={1573-7543},
+doi={10.1007/s10586-026-06447-5},
+url={https://doi.org/10.1007/s10586-026-06447-5}
+}
