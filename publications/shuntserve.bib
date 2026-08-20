@@ -1,0 +1,13 @@
+@article{shuntserve,
+title = {ShuntServe: Cost-efficient LLM serving on heterogeneous spot GPU clusters},
+journal = {Future Generation Computer Systems},
+volume = {186},
+pages = {108760},
+year = {2027},
+issn = {0167-739X},
+doi = {https://doi.org/10.1016/j.future.2026.108760},
+url = {https://www.sciencedirect.com/science/article/pii/S0167739X26003948},
+author = {Seungwoo Jeong and Moohyun Song and Juhyun Park and Kyungyong Lee},
+keywords = {Cloud computing, Distributed computing, Heterogeneous computing, LLM serving, Spot handling, Cost optimization},
+abstract = {As large language model (LLM) services become widely adopted, the cost of GPU resources for serving these models in cloud environments has emerged as a critical concern. Spot instances offer up to 90% cost savings over on-demand instances, but their frequent interruptions and limited availability pose significant challenges for continuous LLM serving. GPU spot instances, in particular, exhibit lower and more volatile availability than CPU-based instances, making homogeneous clusters that depend on a single GPU type vulnerable to correlated failures. Heterogeneous clusters spanning multiple GPU types can address this by leveraging complementary availability across diverse spot pools, yet existing LLM serving systems are designed for homogeneous environments and suffer from load imbalance on heterogeneous GPUs. This paper presents ShuntServe, a cost-efficient LLM serving system for heterogeneous spot GPU clusters. ShuntServe employs a roofline model-based performance estimator and a dynamic programming-based placement optimizer that jointly determines node configuration, parallelization strategy, and layer assignment to maximize throughput. To enhance fault tolerance under spot interruptions, ShuntServe combines output-preserving request migration with concurrent initialization via a shared tensor store, minimizing downtime by overlapping replacement node preparation with ongoing serving. Evaluated on Llama-3.1-70B and Qwen3-32B with a heterogeneous AWS cluster of L4, A10G, and L40S GPUs, ShuntServe achieves 1.42 × and 1.35 × higher throughput than state-of-the-art baselines and 31.9% and 31.2% cost efficiency improvements over on-demand instances for offline and online serving, respectively.}
+}

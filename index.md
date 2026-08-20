@@ -48,7 +48,9 @@ Kyungyong has few industry experiecnes as a software development engineer and re
   * Version-control of experiments with diverse parameters
 
 #### Publications <a name="publication"></a>
-* T. Kim, K. Ki, E. Gimenez, P. Lopez, **K. Lee**, 'KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances', 27th ACM International Middleware Conference, 2026, [pdf](publications/kubepacs.pdf) [ACM]() [bib]()
+* T. Kim, K. Kim, E. Gimenez, P. Lopez, **K. Lee**, 'KubePACS: Kubernetes Cluster Using Performant, Highly Available, and Cost Efficient Spot Instances', 27th ACM International Middleware Conference, 2026, [pdf](publications/kubepacs.pdf) [ACM]() [bib]()
+
+* S. Jeong, M. Song, J. Park, **K. Lee**, 'ShuntServe: Cost-efficient LLM serving on heterogeneous spot GPU clusters', Future Generation Computer Systems (FGCS), 2026, [pdf](publications/shuntserve.pdf) [elsevier](https://www.sciencedirect.com/science/article/pii/S0167739X26003948) [bib](publications/shuntserve.bib)
 
 * S. Lee, J. Lim, **K. Lee**, 'Pygration : Workload-Aware Live Migratable Cloud Instance Detector for Python Runtime', IEEE Transactions on Cloud Computing, 2026, [pdf](publications/pygration.pdf) [ieee](https://ieeexplore.ieee.org/document/11427031) [bib](publications/pygration.bib)
 
